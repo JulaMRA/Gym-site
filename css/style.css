@@ -1,0 +1,48 @@
+@import url(sections/about.css);
+@import url(sections/class.css);
+@import url(sections/contact.css);
+@import url(sections/footer.css);
+@import url(sections/gallery.css);
+@import url(sections/header.css);
+@import url(sections/home.css);
+@import url(sections/sign-up.css);
+@import url(sections/trainers.css);
+
+
+:root{
+    --primary-color: #191A19;
+    --light-primary: #303230bd;
+    --secondary-color: #4D0D8C;
+    --violet: #8000FF;
+    --light-violet: #CD9AFF;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+    scroll-behavior: smooth;
+    background-color: var(--primary-color);
+}
+
+.tab-button {
+    cursor: pointer;
+    padding: 8px 16px;
+    margin-right: 5px;
+    border: none;
+    color: #ffffff;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 500;
+    list-style: none;
+    display: flex;
+    gap: 20px;   
+    text-transform: uppercase;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.tab-button:hover {
+    color: var(--violet);
+}
