@@ -1,6 +1,10 @@
-# Gym-site
+# Gym-site Copyright (c) 2025 [JulaMRA]
 
-joga,jpg - https://unsplash.com/photos/group-of-women-doing-yoga-gJtDg6WfMlQ
+This project is for portfolio and demonstration purposes only. You are not permitted to copy, modify, distribute, or use this code without the express permission of the author.
+
+PICTURES:
+
+joga.jpg - https://unsplash.com/photos/group-of-women-doing-yoga-gJtDg6WfMlQ
 
 background 2.jpg - https://unsplash.com/photos/woman-standing-surrounded-by-exercise-equipment-CQfNt66ttZM
 
@@ -22,9 +26,9 @@ crosfit.jpg - https://unsplash.com/photos/woman-holding-brown-ropes-U5kQvbQWoG0
 
 6.jpg - https://www.freepik.com/free-photo/sporty-man-red-t-shirt-holds-dumbbells_26194974.htm#fromView=search&page=1&position=1&uuid=8cb60420-1aaa-495b-ab93-8cc5564ba65d&query=gym+men?sign-up=email
 
-7.jpg - https://www.freepik.com/free-photo/beautiful-slender-girl-black-fitting-clothing-posing-white_9695334.htm#fromView=search&page=1&position=1&uuid=1be27878-556c-4b18-ae6e-2a0dea75c06c&query=gym+women+grey+background
+7.jpg - https://www.freepik.com/free-photo/beautiful-slender-girl-black-fitting-clothing-posing-white_9695334.htm#fromView=search&page=1&position=1&uuid=1be27878-556c-4b18-ae6e-                                     2a0dea75c06c&query=gym+women+grey+background
 
-8.jpg - https://www.freepik.com/free-photo/side-view-fit-man-posing-while-wearing-tank-top-with-crossed-arms_10425824.htm#fromView=search&page=1&position=0&uuid=96c6f23e-1da2-4f67-85cb-e33e458c8dd9&query=gym+men+grey+background
+8.jpg - https://www.freepik.com/free-photo/side-view-fit-man-posing-while-wearing-tank-top-with-crossed-arms_10425824.htm#fromView=search&page=1&position=0&uuid=96c6f23e-1da2-4f67-85cb-                             e33e458c8dd9&query=gym+men+grey+background
 
 9.jpg - Photo by Leon Ardho from Pexels: https://www.pexels.com/photo/man-and-woman-holding-battle-ropes-1552242/
 
@@ -41,5 +45,5 @@ crosfit.jpg - https://unsplash.com/photos/woman-holding-brown-ropes-U5kQvbQWoG0
 15.jpg - Photo by Andrea Piacquadio: https://www.pexels.com/photo/women-having-exercise-using-dumbbells-903171/
          https://www.pexels.com/photo/women-having-exercise-using-dumbbells-903171
 
-16.jpg - Photo by <a href="https://unsplash.com/@samuelgirven?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Samuel Girven</a> on <a href="https://unsplash.com/photos/a-man-holding-a-pair-of-dumbs-in-a-gym-ulFjgocEHkA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+16.jpg - Photo by <a href="https://unsplash.com/@samuelgirven?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Samuel Girven</a> on <a href="https://unsplash.com/photos/a-man-holding-a-           pair-of-dumbs-in-a-gym-ulFjgocEHkA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
